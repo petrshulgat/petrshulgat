@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Petr Shulgat</h1>
 <h3 align="center">A student in UniDeb. Aspiring Data Engineer</h3>
 
-- 🔭 I’m currently working on [Fraud Detection Pipeline](https://github.com/petrshulgat/fraud-detection-pipeline.git)
+- 🔭 I’m currently working on [Netflix Data Warehouse]((https://github.com/petrshulgat/netflix-data-warehouse.git))
 
 - 🌱 I’m currently learning **Data Engineering**
 
