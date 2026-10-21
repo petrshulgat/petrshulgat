@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Petr Shulgat</h1>
 <h3 align="center">A student in UniDeb. Aspiring Data Engineer</h3>
 
-- 🔭 I’m currently working on [Data Engineering Problems](https://github.com/petrshulgat/data-engineering-practice-problems.git)
-
 - 🌱 I’m currently learning **Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/petrshulgat](https://github.com/petrshulgat)
